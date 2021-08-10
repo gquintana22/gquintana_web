@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Gustavo Quintana
+title: Nutrition & Analytics Lab
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data Analyst | Poultry Nutritionist
+#role: Research | Nutrition | Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,11 +64,14 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Nutrition & Analytics Lab at NC State University is an extension and research laboratory in the Prestage Department of Poultry Science. The lab focuses on poultry science, with multiple research areas, including intestinal health, leg health, feed ingredients, processing, muscle yield and production, broiler and breeder nutrition, incubation models, decision making and optimization, and big data analytics. This lab also offers a variety of extension courses and trainings for people involved in the poultry and swine industries. These courses are related to poultry production and supervision, data management and analysis, poultry nutrition, feed formulation among others.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Advisor: Dr. Edgar Oviedo-Rondon.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Prestage Department of Poultry Science
+
+
+
