@@ -12,5 +12,5 @@ design:
   columns: "2"
   view: 3
   background:
-    image: ec5bfc3a-1a31-4ced-9871-b307f8d1c103.jpeg
+    image: ""
 ---
