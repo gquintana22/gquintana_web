@@ -59,7 +59,7 @@ coordinates:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
@@ -134,7 +134,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: 'wowchemy'
   algolia:
     app_id: ''
     api_key: ''
