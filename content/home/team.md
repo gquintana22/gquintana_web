@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -15,9 +15,10 @@ subtitle:
 content:
   # Page type to display. E.g. project.
   page_type: team
-  count: 8
+  count: 4
 
 design:
   columns: '2'
   view: 3
+  flip_alt_rows: true
 ---
