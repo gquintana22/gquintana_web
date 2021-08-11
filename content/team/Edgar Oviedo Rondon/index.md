@@ -1,5 +1,5 @@
 ---
-title: Edgar Oviedo, PhD
+title: Edgar Oviedo, PhDD
 summary: Professor | Principal Investigator
 tags:
 - Deep Learning
