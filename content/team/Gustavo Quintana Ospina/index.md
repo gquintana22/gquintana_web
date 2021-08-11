@@ -1,6 +1,6 @@
 ---
 title: GUSTAVO QUINTANA-OSPINA
-summary: An example of using the in-built project page.
+summary: Graduate Research Assistant | Data Analyst | Poultry Nutritionist
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
