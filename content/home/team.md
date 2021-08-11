@@ -4,21 +4,20 @@
 widget: portfolio
 
 # This file represents a page section.
+
+widget: featured
+widget_id: Edgar Oviedo
+
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Meet the team
-subtitle:
-
+subtitle: null
 content:
-  # Page type to display. E.g. project.
   page_type: team
-  count: 4
+  count: 8
 
 design:
-  columns: '2'
+  columns: "2"
   view: 3
-  flip_alt_rows: true
+
 ---
