@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-The Nutrition & Analytics Lab at NC State University is an extension and research laboratory in the Prestage Department of Poultry Science. The lab focuses on poultry science, with multiple research areas, including intestinal health, leg health, feed ingredients, processing, muscle yield and production, broiler and breeder nutrition, incubation models, decision making and optimization, and big data analytics. This lab also offers a variety of extension courses and trainings for people involved in the poultry and swine industries. These courses are related to poultry production and supervision, data management and analysis, poultry nutrition, feed formulation among others.
+The Nutrition & Analytics Lab at NC State University is an extension and research laboratory in the Prestage Department of Poultry Science. The lab focuses on poultry science, with multiple research areas, including intestinal health, leg health, feed ingredients, processing, muscle yield and production, broiler and breeder nutrition, incubation models, decision making and optimization, and big data analytics. This lab also offers a variety of extension courses and trainings for people involved in the poultry and swine industries. These courses are related to poultry production and supervision, data management and analysis, poultry nutrition, feed formulation among others. A
 
 Advisor: Dr. Edgar Oviedo-Rondon.
 
