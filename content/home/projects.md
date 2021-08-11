@@ -33,6 +33,8 @@ content:
     tag: Demo
 
 design:
+  background:
+    color: 'navy'
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 
