@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: gaquinta@ncsu.edu
-phone: +1 919 904 5701
+email: ncsupoultrycourses@ncsu.edu
+phone: +1 919 515 5391
 address:
   street: 2711 Founder St
   city: Raleigh
@@ -29,9 +29,9 @@ address:
   postcode: '27695'
   country: United States
   country_code: US
-# coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
+coordinates:
+  latitude: '35.78817'
+  longitude: '-78.67208'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'

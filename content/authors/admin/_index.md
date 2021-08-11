@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nutrition & Analytics Lab
+title: Oviedo's Lab
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: https://www.ncsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research | Nutrition | Health | Analytics.
 
 # Interests to show in About widget
 interests:
@@ -31,16 +31,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ''
+  link: 'mailto:ncsupoultrycourses@ncsu.edu'
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/oviedoslabncsu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/gquintana_22
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gquintana22
+  link: https://twitter.com/oviedolab
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/gquintana22
+  link: https://www.linkedin.com/in/oviedo-s-lab-nc-state-university
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
