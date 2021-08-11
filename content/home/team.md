@@ -15,6 +15,6 @@ content:
   count: 8
 
 design:
-  columns: 2
+  columns: '2'
   view: 3
 ---
