@@ -1,60 +1,33 @@
 ---
-title: "EDGAR OVIEDO-RONDON, PhD"
+title: Edgar Oviedo, PhD
+summary: Professor | Principal Investigator
+tags:
+- Deep Learning
+date: "2016-04-27T00:00:00Z"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: [""]
+# Optional external URL for project (replaces project detail page).
+external_link: ""
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Principal Investigator and Full Professor
-
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  focal_point: ""
-  preview_only: false
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
-#   Associate this publication with Markdown slides.
+#   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 ---
+
+Topics include: Broiler nutrition & feeding, and broiler health & management; Effects of broiler breeder management and nutrition on broiler performance; Effects of hatchery and incubation management on broiler performance, bone development and welfare; Evaluation of efficacy of feed additives and nutritional factors that affect enteric health and meat quality.  This includes evaluation of coccidiostats, antibiotics, probiotics, prebiotics, symbiotics, crystalline amino acids, vitamins, trace minerals, and vaccines against Eimeria spp.; and technologies to improve broiler house air quality and reduce gas emissions.
