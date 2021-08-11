@@ -1,5 +1,5 @@
 ---
-title: GUSTAVO QUINTANA-OSPINA
+title: Gustavo Quintana
 summary: Graduate Research Assistant | Data Analyst | Poultry Nutritionist
 tags:
 - Deep Learning
