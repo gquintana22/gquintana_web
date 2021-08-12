@@ -40,7 +40,7 @@ social:
   link: https://twitter.com/oviedolab
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/oviedo-s-lab-nc-state-university
+  link: https://www.linkedin.com/company/oviedo-s-lab-nc-state-university
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -56,7 +56,7 @@ email: ""
 highlight_name: true
 ---
 
-The Nutrition & Analytics Lab at NC State University is an extension and research laboratory in the Prestage Department of Poultry Science advised by Dr. Edgar Oviedo-Rondon. The lab focuses on poultry science, with multiple research areas, including intestinal health, leg health, feed ingredients, processing, muscle yield and production, broiler and breeder nutrition, incubation models, decision making and optimization, and big data analytics. This lab also offers a variety of extension courses and trainings for people involved in the poultry and swine industries. These courses are related to poultry production and supervision, data management and analysis, poultry nutrition, feed formulation among others.
+The Oviedo's Lab at NC State University is an extension and research laboratory in the Prestage Department of Poultry Science advised by Dr. Edgar Oviedo-Rondon. The lab focuses on poultry science, with multiple research areas, including intestinal health, leg health, feed ingredients, processing, muscle yield and production, broiler and breeder nutrition, incubation models, decision making and optimization, and big data analytics. This lab also offers a variety of extension courses and trainings for people involved in the poultry and swine industries. These courses are related to poultry production and supervision, data management and analysis, poultry nutrition, feed formulation among others.
 
 Advisor: Dr. Edgar Oviedo-Rondon.
 
