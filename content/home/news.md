@@ -39,3 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+
+Find in this section all our news ! Very soon.
