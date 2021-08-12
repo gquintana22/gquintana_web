@@ -14,13 +14,13 @@ main:
     url: '#courses'
     weight: 30
   - name: News
-    url: '#skills'
+    url: '#news'
     weight: 40
   - name: Publications
     url: '#featured'
     weight: 50
   - name: Analytics
-    url: '#talks'
+    url: '#analytics'
     weight: 60
   - name: Contact
     url: '#contact'
