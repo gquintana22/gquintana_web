@@ -58,16 +58,15 @@ This course provides updated technical information for live production and grow-
 
 ## **Invited Speakers**
 
-![image](path-to-image.jpg){: style="float: left"}
-**John Austin Baker. BS.** Ventilation Director - Hog Slat, Inc. Education: BS Animal and Veterinary Sciences Clemson University. Focus on Animal Production.  Global experience in confined animal ventilation system design, operation and troubleshooting.
+![image](pictures/John.jpg)**John Austin Baker. BS.** Ventilation Director - Hog Slat, Inc. Education: BS Animal and Veterinary Sciences Clemson University. Focus on Animal Production.  Global experience in confined animal ventilation system design, operation and troubleshooting.<br>
 
-![image](path-to-image.jpg){: style="float: left"}
+![image](pictures/Ivan.jpg)
 **Dr. Ivan Alvarado, DVM, MSc., PhD., Dip. ACPV.**  Dr. Alvarado has practiced poultry medicine for over 19 years, starting as a commercial layer and broiler breeder veterinary supervisor in Colombia. After finishing his Master and Doctoral studies at the University of Georgia, Dr. Alvarado has been actively involved in technical services support for broiler and commercial layer companies in the United States and Overseas. Currently, Dr. Alvarado is responsible for the professional development of Merck’s technical services team and their technical services support for the U.S. poultry industry. 
 
-![image](path-to-image.jpg){: style="float: left"}
+![image](pictures/Kalen.jpg)
 **Dr. Kalen Cookson, DVM, MAM.** received his Doctorate from North Carolina State University—College of Veterinary Medicine. After working as a resident in the California Veterinary Diagnostic Laboratory System, he went on to receive a Masters in Avian Medicine from the University of Georgia. Dr. Cookson has over 25 years of experience in the biologicals industry working for Zoetis and its legacy predecessors. As a technical services veterinarian who has supported not only the U.S. but every other major global market, Dr. Cookson has expertise in vaccine programming and has provided critical input to new vaccine development. His role over the past several years has been Director of Clinical Research where he helps Zoetis execute its extensive applied research—mostly post-licensure trials conducted under both controlled and commercial settings.
 
-![image](path-to-image.jpg){: style="float: left"}
+![image](pictures/Susan.jpg)
 **Dr. Susan Watkins, Ph.D.** Emeritus Professor, University of Arkansas.  Consultant with excellent experience in all poultry production aspects especially on water management.  Dr. Watkins have conducted extensive research in water sanitation.
 
 
