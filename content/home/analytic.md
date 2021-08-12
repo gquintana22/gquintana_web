@@ -5,17 +5,17 @@ widget: portfolio
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 60
 
-title: Projects
+title: Analytics
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: publication
+  page_type: analytics
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
