@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -14,9 +14,9 @@ subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  page_type: new
   # Choose how many pages you would like to display (0 = all pages)
-  count: 4
+  count: 5
   # Filter on criteria
   filters:
     author: ""
@@ -37,7 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
-
-Find in this section all our news ! Very soon.
