@@ -1,5 +1,5 @@
 ---
-title: Eastern NC Broiler Supervisor's Workshop
+title: Eastern NC Broiler Production Short Course
 summary: This course provides updated technical information for live production and grow-out managers, broiler flock supervisors, and other personnel involved in broiler chicken production.
 
 Read more at: ""
@@ -46,7 +46,7 @@ This course provides updated technical information for live production and grow-
 
 **9:30 am** Update on Broiler Viral Diseases: Bronchitis and Reovirus. Dr. Ivan Alvarado, Merck Animal Health.
 
-**10:05 am** Break.
+**10:05 am** Broiler Service Person Awards - Break
 
 **10:15 am** Update on Broiler Viral Diseases: Marek's, Laryngotrachei­ tis and Gumboro. Dr. Kalen Cookson, Zoetis Animal Health.
 
