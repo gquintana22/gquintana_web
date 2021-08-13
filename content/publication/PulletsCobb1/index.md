@@ -25,8 +25,8 @@ publishDate: "2021-08-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Journal of Poultry Science
-publication_short: In *Poult. Sci.*
+publication: Journal of Poultry Science
+publication_short: In *Poult. Sci*
 
 abstract: Adequate pullet nutrition is essential to reach BW and suitable body composition for reproduction. An experiment was conducted to determine the effects of 4 dietary amino acid (AA) levels on BW, flock uniformity, body conformation, organ, leg, and feathering development of broiler breeder pullets during the rearing phase from 5 to 24 wk. A total of 1,360 Cobb-500 slow-feathering (SF) pullets were randomly placed in 16-floor pens with 85 females per pen. Diets with corn, soybean meal, and wheat-midds were formulated without protein restriction maintaining minimum ratios between essential AA and Lys on a digestible (dig) ideal basis. Treatments consisted of 4 dietary AA levels with 80% (low-AA), 90% (moderate-AA), 100% (standard-AA), and 110% (high-AA) of the Cobb-Vantress recommendations guided by dig Lys using balanced protein. Up to 4 wk, all pullets were fed a common starter crumble diet. Grower and developer mash diets were fed to pullets from 5 to 15 wk and from 16 to 24 wk, respectively. Pullets fed standard-AA and high-AA diets were heavier (P < 0.001) than those fed low-AA diets at 10, 15, and 20 wk of age. High-AA diets resulted in better (P = 0.040) flock uniformity at 10 wk. Pullets fed a high-AA diet had the highest (P = 0.041) relative breast weight at 20 wk of age and the lowest (P = 0.044) deposits of abdominal fat at 15 wk of age. Fleshing increased (P < 0.05) as AA content rise in the diet, while the relative shank length (P < 0.001) and the number of wing juvenile feathers (P = 0.004) decreased. Pullets fed the lowest dietary AA level had the longest (P = 0.007) small intestine relative to BW at 10 wk of age, but a smaller (P = 0.001) liver than those fed moderate and standard-AA diets at 20 wk of age. Dietary AA levels have important effects on pullet BW, fleshing, and organ development during rearing with potential reproductive performance impacts.
 
@@ -74,3 +74,4 @@ projects: ""
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
