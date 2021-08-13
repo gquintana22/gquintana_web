@@ -39,7 +39,7 @@ design:
 
 ## **2021**
 
-- Alfaro-Wisaquillo M.C., E.O. Oviedo-Rondon, H.A. Cordova-Noboa, J.V. Caldas, G.A. Quintana-Ospina, I.C. Ospina-Rojas, and V. San Martin. (2021). [Effects of amino acid levels during rearing on Cobb 500 slow-feathering broiler breeders: 1. Growth and development](https://doi.org/10.1016/j.psj.2021.101327). Poult. Sci., 100(9).
+- Alfaro-Wisaquillo M.C., E.O. Oviedo-Rondon, H.A. Cordova-Noboa, J.V. Caldas, G.A. Quintana-Ospina, I.C. Ospina-Rojas, and V. San Martin. (2021). [Effects of amino acid levels during rearing on Cobb 500 slow-feathering broiler breeders: 1. Growth and development](./publication/pulletscobb1/). Poult. Sci., 100(9).
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
